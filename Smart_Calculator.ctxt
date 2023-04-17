@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Smart_Calculator
+comment0.text=\r\n\ This\ is\ project\ for\ the\ subject\ Object\ Oriented\ Programming.\r\n\r\n\ @Matheus\ Perazzo\r\n\ @2.0\ (15/04/2023)\r\n\ \r\n\ This\ project\ was\ done\ with\ the\ help\ of\ internet\ a\ youtube\ videoclasses,\ with\ a\ lot\ of\ effort\r\n\ and\ time\ i\ could\ manage\ to\ do\ it.\ It\ is\ not\ a\ hard\ code,\ but\ also\ not\ so\ easy\ one,\ i\ believe\r\n\ and\ trust\ i\ have\ used\ a\ lot\ of\ contents\ from\ the\ lecture\ itself.\r\n\ \r\n\ The\ project\ consists\ in\ a\ calculator\ using\ JFrame\ HashMap\ fundamentals\ integrated\ and\ implemented\ \r\n\ with\ Object\ Oriented\ Programming\ learned\ in\ class\ with\ the\ teacher.\r\n
+comment1.params=
+comment1.target=Smart_Calculator()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=number
+comment3.target=double\ evaluate(java.lang.String)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=num1\ operator\ num2
+comment5.target=double\ compute(double,\ java.lang.String,\ double)
+numComments=6
